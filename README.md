@@ -81,6 +81,10 @@ This project is an interactive **Sales Analysis Dashboard** built using **Micros
 * Performance Analysis
 
 ---
+## Author
+
+Pratik Pandurang Jadhav
+Data Analytics Internship
 
 ## Conclusion
 
